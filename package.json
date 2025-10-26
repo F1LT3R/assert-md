@@ -1,0 +1,15 @@
+{
+  "name": "assert-md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "F1LT3R",
+  "license": "ISC",
+  "dependencies": {
+    "balanced-pairs": "^1.1.2",
+    "quickjs-emscripten": "^0.31.0"
+  }
+}
